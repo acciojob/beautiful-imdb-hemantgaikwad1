@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+.container{
+	width:100vw;
+	height:100vh;
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+	position:relative;
+}
+.moviePic{
+	width:400px;
+	height:300px;
+	opacity:0.9;
+	
+}
+.movieDetail{
+	padding:10px;
+	width:80vw;
+	margin:20px;
+	height:20vh;
+	text-align:center;
+	font-size:15px;
+	text-justify:center;
+top:50%;
+	left:50%;
+	
+	
+}
